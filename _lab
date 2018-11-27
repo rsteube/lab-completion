@@ -1,3 +1,4 @@
+# vim: ft=zsh
 #compdef _lab lab
 
 
